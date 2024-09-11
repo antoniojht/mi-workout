@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Footer from "./ui/footer";
+import { NextUIProvider } from "@nextui-org/react";
+import { ThemeProvider as NextThemesProvider } from "next-themes";
 
 export const metadata: Metadata = {
   title: "miWorkout",
@@ -14,9 +16,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="es">
-      <body>
-        {children}
-        <Footer />
+      <body className="m-2">
+        <NextUIProvider>
+          <NextThemesProvider attribute="class" defaultTheme="light">
+            {children}
+          </NextThemesProvider>
+          <Footer />
+        </NextUIProvider>
       </body>
     </html>
   );

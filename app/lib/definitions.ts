@@ -13,6 +13,7 @@ type Group = {
 };
 
 type Routine = {
+  id: string;
   name: string;
   group: Group[];
 };
@@ -30,6 +31,7 @@ type UserGroup = {
 };
 
 type UserRoutine = {
+  id: string;
   name: string;
   group: UserGroup[];
 };

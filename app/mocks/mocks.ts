@@ -1,5 +1,6 @@
 export const masterRoutines: WorkoutPlan = [
 	{
+    id: "ab20c273-b85f-470a-87ee-4605802ca666",
 		name: "Torso-Pierna",
     group: [
       {
@@ -114,6 +115,7 @@ export const masterRoutines: WorkoutPlan = [
 		
 	},
   {
+    id: "202cb042-00db-4476-95be-e902a2673eea",
     name: "Empuje-Tirón",
     group: [
       {
@@ -203,6 +205,7 @@ export const masterRoutines: WorkoutPlan = [
 
 export const routinesUser: UserWorkoutPlan = [
   {
+    id: "a00f6bb9-f964-4d6c-805b-60abbbcdff7a",
     name: "Rutina 4 días",
     group: [
       {
@@ -317,6 +320,7 @@ export const routinesUser: UserWorkoutPlan = [
     ]
   },
   {
+    id:"e81d81f9-7d28-4d92-afcd-b58b48e0adfa",
     name: "Rutina 3 dias FullBody",
     group: [
       {
