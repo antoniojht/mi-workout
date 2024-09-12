@@ -12,9 +12,9 @@ export default function WorkoutLayout({
   const links = [
     {
       name: "Rutinas",
-      href: "/workouts",
+      href: "/routines",
     },
-    { name: "Planes de entrenamiento", href: "/workouts/master" },
+    { name: "Planes de entrenamiento", href: "/routines/master" },
   ];
 
   return (

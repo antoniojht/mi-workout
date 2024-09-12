@@ -218,7 +218,7 @@ export const routinesUser: UserWorkoutPlan = [
             reps: "8-12",
             timer: 120,
             notes: "",
-            previous: "11-10-9"
+            previous: "20Kgx11-20Kgx10-20Kgx9"
           },
           {
             name: "Dominadas",
@@ -227,7 +227,7 @@ export const routinesUser: UserWorkoutPlan = [
             reps: "8-12",
             timer: 120,
             notes: "",
-            previous: "11-10-9"
+            previous: "20Kgx11-20Kgx10-20Kgx9"
           },
           {
             name: "Press Militar",
@@ -236,7 +236,7 @@ export const routinesUser: UserWorkoutPlan = [
             reps: "8-12",
             timer: 120,
             notes: "",
-            previous: "11-10-9"
+            previous: "20Kgx11-20Kgx10-20Kgx9"
           },
           {
             name: "Press banca inclinado",
@@ -245,7 +245,7 @@ export const routinesUser: UserWorkoutPlan = [
             reps: "8-12",
             timer: 120,
             notes: "",
-            previous: "11-10-9"
+            previous: "20Kgx11-20Kgx10-20Kgx9"
           },
           {
             name: "Remo con barra",
@@ -254,7 +254,7 @@ export const routinesUser: UserWorkoutPlan = [
             reps: "8-12",
             timer: 120,
             notes: "",
-            previous: "11-10-9"
+            previous: "20Kgx11-20Kgx10-20Kgx9"
           },
           {
             name: "Curl biceps",
@@ -263,7 +263,7 @@ export const routinesUser: UserWorkoutPlan = [
             reps: "8-12",
             timer: 120,
             notes: "",
-            previous: "11-10-9"
+            previous: "20Kgx11-20Kgx10-20Kgx9"
           },
           {
             name: "Extensión de triceps",
@@ -272,7 +272,7 @@ export const routinesUser: UserWorkoutPlan = [
             reps: "8-12",
             timer: 120,
             notes: "",
-            previous: "11-10-9"
+            previous: "20Kgx11-20Kgx10-20Kgx9"
           }
         ]
       },
